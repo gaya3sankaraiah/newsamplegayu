@@ -1,0 +1,9 @@
+{
+	"name": "adfsamplegayu",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "de205b35-f93f-45f4-83cd-57a3e80f6f46",
+		"tenantId": "46cdd669-3048-4195-941c-c111f8dfb6a9"
+	}
+}
